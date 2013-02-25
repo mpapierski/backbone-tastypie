@@ -1,0 +1,8 @@
+{
+  "name": "backbone-tastypie",
+  "version": "1.0.0",
+  "main": "./backbone_tastypie/static/js/backbone-tastypie.js",
+  "dependencies": {
+    "jquery": "~1.7.2"
+  }
+}
